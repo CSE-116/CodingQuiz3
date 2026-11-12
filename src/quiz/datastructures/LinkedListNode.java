@@ -1,4 +1,4 @@
-package datastructures;
+package quiz.datastructures;
 
 public class LinkedListNode<T> {
     private T value;

@@ -1,4 +1,4 @@
-package datastructures;
+package quiz.datastructures;
 
 public class BinaryTreeNode<A> {
     private A value;
